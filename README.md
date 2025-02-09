@@ -9,5 +9,5 @@ This is a simple and interactive Tic Tac Toe game built using HTML, CSS, and Jav
 ## Project Preview
 &nbsp;
 <a><img src="tic-toe.JPG" height="600" width="600" /></a>
-- Live Link : [https://ankanghosh56.github.io/X-O_Battle/]
+- Live Link : [Click Here !](https://ankanghosh56.github.io/X-O_Battle/)
 
