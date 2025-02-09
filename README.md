@@ -7,6 +7,7 @@ This is a simple and interactive Tic Tac Toe game built using HTML, CSS, and Jav
 - The layout adapts to different screen sizes, with a reset button to start a new game.
 
 ## Project Preview
+&nbsp;
 <a><img src="tic-toe.JPG" height="600" width="600" /></a>
-
+- Live Link : [https://ankanghosh56.github.io/X-O_Battle/]
 
