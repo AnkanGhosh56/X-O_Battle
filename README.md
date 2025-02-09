@@ -11,3 +11,11 @@ This is a simple and interactive Tic Tac Toe game built using HTML, CSS, and Jav
 <a><img src="tic-toe.JPG" height="600" width="600" /></a>
 - Live Link : [Click Here !](https://ankanghosh56.github.io/X-O_Battle/)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Feedback
+We welcome feedback and contributions. Feel free to open an issue or submit a pull request.
+
+<h1 align="center">Show some ❤ by starring this repositories!🌠</h1> 
+
